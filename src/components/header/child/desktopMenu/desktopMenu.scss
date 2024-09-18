@@ -1,0 +1,30 @@
+.desktopMenu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--size-20);
+  > li {
+    position: relative;
+    padding: 4px 12px;
+    &::after {
+      content: "";
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      height: 2px;
+      width: 0%;
+      transition: all 0.5s linear;
+      background-color: var(--col-three);
+    }
+    &:hover {
+      &::after {
+        width: 100%;
+      }
+    }
+    > a {
+      font-size: var(--size-18);
+      font-weight: 500;
+      color: var(--col-white);
+    }
+  }
+}

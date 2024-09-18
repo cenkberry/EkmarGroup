@@ -1,0 +1,87 @@
+.offers {
+  background-color: #f3f3f3;
+  padding: var(--size-40) 0 var(--size-32);
+  margin-bottom: var(--size-48);
+  @media screen and (min-width: $lap) {
+    padding: var(--size-60) 0;
+    margin-bottom: var(--size-60);
+  }
+  &-title {
+    font-size: var(--size-32);
+    line-height: 1.2;
+    color: var(--col-black);
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: var(--size-12);
+    @media screen and (min-width: $lap) {
+      font-size: var(--size-40);
+    }
+  }
+  &-subtitle {
+    color: var(--col-four);
+    font-size: var(--size-18);
+    line-height: 1.6;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: var(--size-32);
+    @media screen and (min-width: $desk) {
+      margin-bottom: var(--size-60);
+      padding: 0 20%;
+    }
+  }
+  .offer-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 12px;
+    overflow: auto;
+    padding-bottom: 24px;
+    @media screen and (min-width: $tab) {
+      gap: 24px;
+      overflow: hidden;
+      flex-wrap: wrap;
+      padding-bottom: 0;
+    }
+    @media screen and (min-width: $desk) {
+      gap: 48px;
+    }
+  }
+  .offer {
+    flex: 0 0 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    padding-right: 12px;
+    @media screen and (min-width: $mob) {
+      flex: 0 0 calc(66%);
+    }
+    @media screen and (min-width: $tab) {
+      text-align: center;
+      align-items: center;
+      flex: 0 0 calc(33.3% - 16px);
+      padding: 0;
+    }
+    @media screen and (min-width: $desk) {
+      flex: 0 0 calc(33.3% - 32px);
+    }
+    &-title {
+      font-size: var(--size-22);
+      font-weight: 600;
+      color: var(--col-black);
+      text-align: center;
+      margin-bottom: 12px;
+      @media screen and (max-width: $sm) {
+        height: 36px;
+        margin-bottom: 0;
+      }
+    }
+    &-subtitle {
+      font-size: var(--size-16);
+      line-height: 1.2;
+      text-align: center;
+      @media screen and (min-width: $lap) {
+        line-height: 1.6;
+      }
+    }
+  }
+}

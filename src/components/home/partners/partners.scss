@@ -1,0 +1,36 @@
+.partners {
+  margin-bottom: var(--size-48);
+  @media screen and (min-width: $lap) {
+    padding: 20px 0;
+  }
+  &-title {
+    font-size: var(--size-32);
+    line-height: 1.2;
+    color: var(--col-black);
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: var(--size-12);
+    @media screen and (min-width: $lap) {
+      font-size: var(--size-40);
+    }
+  }
+  &-subtitle {
+    color: var(--col-four);
+    font-size: var(--size-18);
+    line-height: 1.6;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: var(--size-32);
+    @media screen and (min-width: $desk) {
+      padding: 0 33%;
+      margin-bottom: var(--size-48);
+    }
+  }
+  &-slider-item {
+    .image-center {
+      @media screen and (max-width: $sm) {
+        padding: 0 8px;
+      }
+    }
+  }
+}

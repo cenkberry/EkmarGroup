@@ -1,0 +1,648 @@
+{
+  "header": {
+    "desktopMenu": {
+      "home": "Главная",
+      "about": "О нас",
+      "products": "Продукты",
+      "partners": "Партнеры",
+      "contact": "Контакт"
+    },
+    "contact": {
+      "whatsapp": {
+        "title": "Связаться с нами"
+      }
+    }
+  },
+  "sliders": {
+    "slider1": {
+      "title": "Оборудование для переработки корма",
+      "subtitle": "Оборудование для переработки корма — это специализированные машины, используемые для измельчения, смешивания и переработки сырьевых ингредиентов в корм для животных. Эти машины обеспечивают производство высококачественного, однородного корма, необходимого для питания скота в сельском хозяйстве.",
+      "button": "Нажмите"
+    },
+    "slider2": {
+      "title": "Оборудование для переработки",
+      "subtitle": "Оборудование для переработки — это промышленные машины, используемые для измельчения, резки и дробления материалов на более мелкие частицы. Эти машины необходимы в таких отраслях, как пищевая переработка, горное дело и строительство, для точного уменьшения размера различных продуктов.",
+      "button": "Нажмите"
+    },
+    "slider3": {
+      "title": "Автоматизированные системы",
+      "subtitle": "Автоматизированные системы используют технологии для выполнения задач с минимальным человеческим вмешательством, повышая эффективность и уменьшая количество ошибок в таких отраслях, как производство и логистика.",
+      "button": "Нажмите"
+    },
+    "slider4": {
+      "title": "GLB СИЛО",
+      "subtitle": "Системы хранения и транспортировки зерна предназначены для безопасного хранения и перемещения собранного зерна. Эти системы обеспечивают защиту и эффективное обращение с зерном от ферм до перерабатывающих предприятий.",
+      "button": "Нажмите"
+    },
+    "slider5": {
+      "title": "Технологии очистки семян",
+      "subtitle": "Технологии очистки семян — это специализированное оборудование, используемое для удаления примесей и нежелательных материалов из семян. Они обеспечивают высококачественные, чистые семена для посева или переработки в сельском хозяйстве.",
+      "button": "Нажмите"
+    },
+    "slider6": {
+      "title": " Ektar Весы для грузовиков",
+      "subtitle": "Весы для грузовиков — это крупные платформы для взвешивания, предназначенные для измерения веса транспортных средств и их грузов. Эти весы необходимы для таких отраслей, как транспортировка, сельское хозяйство и строительство, чтобы обеспечить точные измерения веса и соблюдение норм.",
+      "button": "Нажмите"
+    }
+  },
+  "about": {
+    "title": "О Нас",
+    "subtitle": "EKMAR GROUP специализируется на системах хранения зерновых и масличных культур, имея более 20 лет опыта. Компания предоставляет консультационные, проектные и управленческие услуги, предлагая комплексные решения. EKMAR ставит приоритет на качество и долгосрочные партнерские отношения с клиентами.",
+    "expertManufacturer": {
+      "title": "Эксперт в Производстве",
+      "subtitle": "EKMAR GROUP специализируется на производстве и транспортировке систем хранения зерновых и масличных культур, а также на поставке запасных частей."
+    },
+    "twentyYearsExperience": {
+      "title": "20 Лет Опыта",
+      "subtitle": "Имея более 20 лет опыта, компания предоставляет консультационные, проектные и управленческие услуги как для внутренних, так и для международных проектов."
+    },
+    "leadershipGoal": {
+      "title": "Цель Лидерства",
+      "subtitle": "Компания стремится быть лидером, помогая клиентам достигать успеха, предоставляя услуги, превосходящие предложения конкурентов."
+    },
+    "reliablePartner": {
+      "title": "Надежный Партнер",
+      "subtitle": "Миссия EKMAR GROUP заключается в том, чтобы быть надежным, долгосрочным партнером, сосредоточенным на постоянном совершенствовании и создании позитивной культуры для партнеров и сотрудников."
+    }
+  },
+  "partners": {
+    "title": "Наши партнеры",
+    "subtitle": "Если вы заинтересованы в том, чтобы стать партнером или спонсором, пожалуйста, не стесняйтесь связаться с нами."
+  },
+  "offers": {
+    "title": "Что Мы Предлагаем",
+    "subtitle": "Наши профессиональные услуги включают экспертное руководство и тщательный контроль и надзор. Мы обеспечиваем высокие стандарты качества на протяжении всего проекта. После окончания гарантийного срока наши услуги постгарантийного обслуживания предоставляют продолженную поддержку и обслуживание.",
+    "determiningNeeds": {
+      "title": "Определение Потребностей",
+      "subtitle": "В результате постоянного общения с нашими клиентами, проводимого нашими опытными сотрудниками, потребности клиента определяются и предлагаются путем информирования и представления выбора продукта, блочной схемы и макетов для соответствующих целей."
+    },
+    "design": {
+      "title": "Проектирование",
+      "subtitle": "Технологические схемы и черновые эскизы проектов подготавливаются бесплатно в соответствии с определенными и согласованными потребностями для наших клиентов. В результате, если проекты согласованы, начинается этап ценообразования."
+    },
+    "createInfrastructure": {
+      "title": "Создание Инфраструктуры",
+      "subtitle": "По запросу наших клиентов мы можем предоставить профессиональные услуги по строительству фундаментов и установке оборудования."
+    },
+    "controlAndSupervision": {
+      "title": "Контроль и Надзор",
+      "subtitle": "Наш механизм контроля и надзора полностью реализован на каждом этапе — от проектирования, отправки, доставки, сборки, пусконаладки до производственных этапов, что минимизирует ошибки."
+    },
+    "maintenance": {
+      "title": "Обслуживание",
+      "subtitle": "С помощью качественного, непрерывного, надежного профессионального обслуживания, квалифицированных техников и гарантий на запасные части, удовлетворенность клиента поддерживается на самом высоком уровне."
+    },
+    "postWarrantyService": {
+      "title": "Постгарантийное Обслуживание",
+      "subtitle": "Постгарантийное обслуживание является отличным вариантом для владельцев оборудования, которые хотят получить максимальную отдачу от своих инвестиций. С нами вы можете быть уверены, что ваше оборудование будет работать эффективно и надежно на протяжении всего срока службы."
+    }
+  },
+  "contact": {
+    "title": "Свяжитесь с нами",
+    "subtitle": "Если у вас есть вопросы или проблемы, пожалуйста, свяжитесь с нами. Наша служба поддержки доступна 24/7 и готова помочь вам. Вы можете связаться с нами по телефону, электронной почте или через нашу онлайн-форму.",
+    "name": "Имя",
+    "email": "Электронная почта",
+    "subject": "Тема",
+    "phone": "Телефон",
+    "message": "Сообщение",
+    "placeholder_name": "Введите ваше имя",
+    "placeholder_email": "Введите вашу электронную почту",
+    "placeholder_subject": "Введите тему",
+    "placeholder_phone": "Введите ваш номер телефона",
+    "placeholder_message": "Введите ваше сообщение",
+    "sentTitle": "Спасибо за ваше обращение!",
+    "sentSubtitle": "Наша команда рассмотрит ваше сообщение и свяжется с вами в ближайшее время по поводу вашего вопроса.",
+    "sentText": "Отправить",
+    "errorMessage": "Пожалуйста, заполните обязательные поля или проверьте информацию."
+  },
+  "footer": {
+    "copyright": {
+      "copy1": "Авторские права Ekmar Group",
+      "copy2": "Разработано Berry Css"
+    },
+    "address": {
+      "turkey": {
+        "country": "Турция",
+        "phone": "905416468799",
+        "phoneTitle": "(+90) 541 646 87 99",
+        "email": "info@glbsilo.com",
+        "address": "Мансуроглу Мах. 288-я улица №31 Байраклы/Измир"
+      },
+      "kazakhstan": {
+        "country": "Казахстан",
+        "phone": "77017338500",
+        "phoneTitle": "(+7) 701 733 8500",
+        "email": "info@ekmargroup.com",
+        "address": "Улица Ахмета Жубанова 31 Астана/Казахстан"
+      },
+      "uzbekistan": {
+        "country": "Узбекистан",
+        "phone": "998900962393",
+        "phoneTitle": "(+998) 90 096 23 93",
+        "email": "info@ekmargroup.com",
+        "address": "Улица Лабзак №97 Ташкент/Узбекистан"
+      }
+    }
+  },
+  "products": {
+    "title": "Наша продукция",
+    "subtitle": "Оптимизируйте свои производственные процессы с помощью передового оборудования для помола, интеллектуальных систем автоматизации и высокоточных автомобильных весов. Повышайте эффективность, точность и производительность с помощью инновационных решений, созданных для безупречной интеграции.",
+    "mill": {
+      "title": "Мельничное обор.",
+      "url": "/products/mill/",
+      "image": "/image/products/mill.webp"
+    },
+    "feed": {
+      "title": "Обор. для корм. мельниц",
+      "url": "/products/feed/",
+      "image": "/image/products/feed.webp"
+    },
+    "auto": {
+      "title": "Автоматизация",
+      "url": "/products/auto/",
+      "image": "/image/products/auto.webp"
+    },
+    "glb": {
+      "title": "GLB Silo",
+      "url": "/products/glb/",
+      "image": "/image/products/glb.webp"
+    },
+    "seed": {
+      "title": "Очистка семян",
+      "url": "/products/seed/",
+      "image": "/image/products/seed.webp"
+    },
+    "ektar": {
+      "title": "Авт. весы Ektar",
+      "url": "/products/ektar/",
+      "image": "/image/products/ektar.webp"
+    }
+  },
+  "millPage": {
+    "topTitle": "Оборудование для помола",
+    "topImage": "/image/products/mill/millTop.webp",
+    "millingSection": {
+      "title": "Секция Помола",
+      "product1": {
+        "title": "Вальцовый Станок (EKA-4)",
+        "image": "/image/products/mill/milling-section/1.webp"
+      },
+      "product2": {
+        "title": "Вальцовый Станок ODV 250X1000",
+        "image": "/image/products/mill/milling-section/2.webp"
+      },
+      "product3": {
+        "title": "Планситтер",
+        "image": "/image/products/mill/milling-section/3.webp"
+      },
+      "product4": {
+        "title": "Пюрифайер",
+        "image": "/image/products/mill/milling-section/4.webp"
+      },
+      "product5": {
+        "title": "Контрольный Рассев",
+        "image": "/image/products/mill/milling-section/5.webp"
+      },
+      "product6": {
+        "title": "Суперсоник Фильтр",
+        "image": "/image/products/mill/milling-section/6.webp"
+      },
+      "product7": {
+        "title": "Финишер Отрубей",
+        "image": "/image/products/mill/milling-section/7.webp"
+      },
+      "product8": {
+        "title": "Вибро Рассев",
+        "image": "/image/products/mill/milling-section/8.webp"
+      },
+      "product9": {
+        "title": "Энтолейтер",
+        "image": "/image/products/mill/milling-section/9.webp"
+      },
+      "product10": {
+        "title": "Дистрибьютор",
+        "image": "/image/products/mill/milling-section/10.webp"
+      },
+      "product11": {
+        "title": "Крушитель",
+        "image": "/image/products/mill/milling-section/11.webp"
+      },
+      "product12": {
+        "title": "Вентилятор Высокого Давления",
+        "image": "/image/products/mill/milling-section/12.webp"
+      }
+    },
+    "cleaningSection": {
+      "title": "Секция Очистки",
+      "product1": {
+        "title": "Зерноочиститель",
+        "image": "/image/products/mill/cleaning-section/1.webp"
+      },
+      "product2": {
+        "title": "Зерноочиститель Vidro",
+        "image": "/image/products/mill/cleaning-section/2.webp"
+      },
+      "product3": {
+        "title": "Радиальный Аспиратор",
+        "image": "/image/products/mill/cleaning-section/3.webp"
+      },
+      "product4": {
+        "title": "Воздушный Канал",
+        "image": "/image/products/mill/cleaning-section/4.webp"
+      },
+      "product5": {
+        "title": "Триер",
+        "image": "/image/products/mill/cleaning-section/5.webp"
+      },
+      "product6": {
+        "title": "Камнеотделитель",
+        "image": "/image/products/mill/cleaning-section/6.webp"
+      },
+      "product7": {
+        "title": "Очищатель",
+        "image": "/image/products/mill/cleaning-section/7.webp"
+      },
+      "product8": {
+        "title": "Трубчатый Магнит",
+        "image": "/image/products/mill/cleaning-section/8.webp"
+      },
+      "product9": {
+        "title": "Магнит",
+        "image": "/image/products/mill/cleaning-section/9.webp"
+      },
+      "product10": {
+        "title": "Увлажнитель",
+        "image": "/image/products/mill/cleaning-section/10.webp"
+      },
+      "product11": {
+        "title": "Наклонный Увлажнитель",
+        "image": "/image/products/mill/cleaning-section/11.webp"
+      },
+      "product12": {
+        "title": "Вертикальная Мойка",
+        "image": "/image/products/mill/cleaning-section/12.webp"
+      }
+    },
+    "TransportationEquipment": {
+      "title": "Транспортное Оборудование",
+      "product1": {
+        "title": "Ковшовый Элеватор",
+        "image": "/image/products/mill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Шнековый Конвейер",
+        "image": "/image/products/mill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Цепной Конвейер",
+        "image": "/image/products/mill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Воздуходувка",
+        "image": "/image/products/mill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Воздушный Затвор",
+        "image": "/image/products/mill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "Смесительная Машина",
+        "image": "/image/products/mill/transportation-equipment/6.webp"
+      }
+    },
+    "packingSection": {
+      "title": "Секция Упаковки",
+      "product1": {
+        "title": "Упаковочная Машина",
+        "image": "/image/products/mill/packing-section/1.webp"
+      },
+      "product2": {
+        "title": "Карусельная Упаковка",
+        "image": "/image/products/mill/packing-section/2.webp"
+      },
+      "product3": {
+        "title": "Трубчатый Шнек",
+        "image": "/image/products/mill/packing-section/3.webp"
+      },
+      "product4": {
+        "title": "Ротофлоу",
+        "image": "/image/products/mill/packing-section/4.webp"
+      }
+    }
+  },
+  "feedMillPage": {
+    "topTitle": "Оборудование для кормозаводов",
+    "topImage": "/image/products/feedMill/feedMillTop.webp",
+    "palletizingGroup": {
+      "title": "Группа паллетирования",
+      "product1": {
+        "title": "EK-PP Пеллетный пресс",
+        "image": "/image/products/feedmill/palletizing-group/1.webp"
+      },
+      "product2": {
+        "title": "EK-PP Пеллетный пресс",
+        "image": "/image/products/feedmill/palletizing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-PP Охладитель пеллет",
+        "image": "/image/products/feedmill/palletizing-group/3.webp"
+      },
+      "product4": {
+        "title": "Система покрытия",
+        "image": "/image/products/feedmill/palletizing-group/4.webp"
+      },
+      "product5": {
+        "title": "Кондиционер",
+        "image": "/image/products/feedmill/palletizing-group/5.webp"
+      },
+      "product6": {
+        "title": "Двойной кондиционер",
+        "image": "/image/products/feedmill/palletizing-group/6.webp"
+      },
+      "product7": {
+        "title": "Крошилка",
+        "image": "/image/products/feedmill/palletizing-group/7.webp"
+      },
+      "product8": {
+        "title": "Роликовая мельница",
+        "image": "/image/products/feedmill/palletizing-group/8.webp"
+      },
+      "product9": {
+        "title": "Воздушный замок",
+        "image": "/image/products/feedmill/palletizing-group/9.webp"
+      },
+      "product10": {
+        "title": "EK_VK Пневматический переключатель",
+        "image": "/image/products/feedmill/palletizing-group/10.webp"
+      }
+    },
+    "millingAndMixingGroup": {
+      "title": "Группа измельчения и смешивания",
+      "product1": {
+        "title": "EK-CD Мельница с молотками",
+        "image": "/image/products/feedmill/milling-and-mixing-group/1.webp"
+      },
+      "product2": {
+        "title": "Питатель для мельницы с молотками",
+        "image": "/image/products/feedmill/milling-and-mixing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-ML Двухвальный смеситель",
+        "image": "/image/products/feedmill/milling-and-mixing-group/3.webp"
+      },
+      "product4": {
+        "title": "Одновальный смеситель",
+        "image": "/image/products/feedmill/milling-and-mixing-group/4.webp"
+      },
+      "product5": {
+        "title": "Устройство микро-дозирования",
+        "image": "/image/products/feedmill/milling-and-mixing-group/5.webp"
+      }
+    },
+    "screeningGroup": {
+      "title": "Группа сортировки",
+      "product1": {
+        "title": "Ротационное сито",
+        "image": "/image/products/feedmill/screening-group/1.webp"
+      },
+      "product2": {
+        "title": "Сепаратор ECS",
+        "image": "/image/products/feedmill/screening-group/2.webp"
+      },
+      "product3": {
+        "title": "Барабанное сито",
+        "image": "/image/products/feedmill/screening-group/3.webp"
+      },
+      "product4": {
+        "title": "Ротационное сито",
+        "image": "/image/products/feedmill/screening-group/4.webp"
+      },
+      "product5": {
+        "title": "Вентилятор",
+        "image": "/image/products/feedmill/screening-group/5.webp"
+      },
+      "product6": {
+        "title": "Суперсанитарный фильтр",
+        "image": "/image/products/feedmill/screening-group/6.webp"
+      },
+      "product7": {
+        "title": "Воздушный замок",
+        "image": "/image/products/feedmill/screening-group/7.webp"
+      },
+      "product8": {
+        "title": "Сепаратор камней",
+        "image": "/image/products/feedmill/screening-group/8.webp"
+      },
+      "product9": {
+        "title": "Циклон аспирации",
+        "image": "/image/products/feedmill/screening-group/9.webp"
+      }
+    },
+    "transportationEquipment": {
+      "title": "Транспортное оборудование",
+      "product1": {
+        "title": "Бакетный элеватор",
+        "image": "/image/products/feedmill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Шнековый конвейер",
+        "image": "/image/products/feedmill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Цепной конвейер",
+        "image": "/image/products/feedmill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Транспортировочный ремень",
+        "image": "/image/products/feedmill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Автоматический магнит Z-образный",
+        "image": "/image/products/feedmill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "BHK Воздушный замок",
+        "image": "/image/products/feedmill/transportation-equipment/6.webp"
+      },
+      "product7": {
+        "title": "Вентилятор",
+        "image": "/image/products/feedmill/transportation-equipment/7.webp"
+      },
+      "product8": {
+        "title": "Ротофлоу",
+        "image": "/image/products/feedmill/transportation-equipment/8.webp"
+      },
+      "product9": {
+        "title": "Распределитель",
+        "image": "/image/products/feedmill/transportation-equipment/9.webp"
+      }
+    },
+    "packingAndLoadingGroup": {
+      "title": "Группа упаковки и загрузки",
+      "product1": {
+        "title": "Упаковочная машина с двойным весом 15/40",
+        "image": "/image/products/feedmill/packing-and-loading-group/1.webp"
+      },
+      "product2": {
+        "title": "Упаковочная машина Carousel",
+        "image": "/image/products/feedmill/packing-and-loading-group/2.webp"
+      }
+    }
+  },
+  "automationSystemsPage": {
+    "topTitle": "Автоматизация систем",
+    "topImage": "/image/products/automation/autoTop.webp",
+    "products": {
+      "title": "Автоматизационные продукты",
+      "product1": {
+        "title": "Линейные весы",
+        "image": "/image/products/automation/1.webp"
+      },
+      "product2": {
+        "title": "Постаментные весы",
+        "image": "/image/products/automation/2.webp"
+      },
+      "product3": {
+        "title": "Весы для взвешивания",
+        "image": "/image/products/automation/3.webp"
+      },
+      "product4": {
+        "title": "Потоковые весы",
+        "image": "/image/products/automation/4.webp"
+      },
+      "product5": {
+        "title": "Весы по емкости",
+        "image": "/image/products/automation/5.webp"
+      },
+      "product6": {
+        "title": "Объемный шнековый диспенсер",
+        "image": "/image/products/automation/6.webp"
+      },
+      "product7": {
+        "title": "Автоматическая система увлажнения",
+        "image": "/image/products/automation/7.webp"
+      }
+    }
+  },
+  "glbPage": {
+    "topTitle": "GLB Силос",
+    "topImage": "/image/products/glb/glbTop.webp",
+    "products": {
+      "title": "Продукты GLB Силоса",
+      "product1": {
+        "title": "Опорные башни",
+        "image": "/image/products/glb/1.webp"
+      },
+      "product2": {
+        "title": "Опорные ножки для силоса",
+        "image": "/image/products/glb/2.webp"
+      },
+      "product3": {
+        "title": "Верхний мостик",
+        "image": "/image/products/glb/3.webp"
+      },
+      "product4": {
+        "title": "Платформы для силоса",
+        "image": "/image/products/glb/4.webp"
+      },
+      "product5": {
+        "title": "Башни для лифтов",
+        "image": "/image/products/glb/5.webp"
+      },
+      "product6": {
+        "title": "Цепные конвейеры",
+        "image": "/image/products/glb/6.webp"
+      },
+      "product7": {
+        "title": "Лифты с конвейерным ремнем",
+        "image": "/image/products/glb/7.webp"
+      }
+    }
+  },
+  "seedPage": {
+    "topTitle": "Технологии очистки семян",
+    "topImage": "/image/products/seed/seedTop.webp",
+    "products": {
+      "title": "Продукты для очистки семян",
+      "product1": {
+        "title": "Линия для очистки семян",
+        "image": "/image/products/seed/1.webp"
+      },
+      "product2": {
+        "title": "Оборудование для очистки зерна",
+        "image": "/image/products/seed/2.webp"
+      },
+      "product3": {
+        "title": "Драмовый сепаратор с блоком аспирации",
+        "image": "/image/products/seed/3.webp"
+      },
+      "product4": {
+        "title": "Устройство для сортировки",
+        "image": "/image/products/seed/4.webp"
+      },
+      "product5": {
+        "title": "Пневматический сортировщик",
+        "image": "/image/products/seed/5.webp"
+      },
+      "product6": {
+        "title": "Мелкий очиститель",
+        "image": "/image/products/seed/6.webp"
+      },
+      "product7": {
+        "title": "Радиальный тряпочный фильтр",
+        "image": "/image/products/seed/7.webp"
+      },
+      "product8": {
+        "title": "Лифт",
+        "image": "/image/products/seed/8.webp"
+      },
+      "product9": {
+        "title": "Отходный шнек",
+        "image": "/image/products/seed/9.webp"
+      },
+      "product10": {
+        "title": "Циклон",
+        "image": "/image/products/seed/10.webp"
+      },
+      "product11": {
+        "title": "Непрерывная машина для прополки",
+        "image": "/image/products/seed/11.webp"
+      },
+      "product12": {
+        "title": "Кожух для аспирации сепаратора",
+        "image": "/image/products/seed/12.webp"
+      },
+      "product13": {
+        "title": "Линия упаковки",
+        "image": "/image/products/seed/13.webp"
+      }
+    }
+  },
+  "ektarPage": {
+    "topTitle": "Весы для грузовиков и железнодорожные весы Ektar",
+    "topImage": "/image/products/ektar/ektarTop.webp",
+    "products": {
+      "title": "Весы для грузовиков и железнодорожные весы",
+      "product1": {
+        "title": "Ektar 2x8",
+        "image": "/image/products/ektar/1.webp"
+      },
+      "product2": {
+        "title": "Статические железнодорожные весы",
+        "image": "/image/products/ektar/2.webp"
+      },
+      "product3": {
+        "title": "Двухплатформенные железнодорожные весы",
+        "image": "/image/products/ektar/3.webp"
+      },
+      "product4": {
+        "title": "Весы для скота",
+        "image": "/image/products/ektar/4.webp"
+      },
+      "product5": {
+        "title": "Промышленные платформенные весы",
+        "image": "/image/products/ektar/5.webp"
+      }
+    }
+  }
+}

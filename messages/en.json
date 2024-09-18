@@ -1,0 +1,648 @@
+{
+  "header": {
+    "desktopMenu": {
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products",
+      "partners": "Partners",
+      "contact": "Contact"
+    },
+    "contact": {
+      "whatsapp": {
+        "title": "Contact Us"
+      }
+    }
+  },
+  "sliders": {
+    "slider1": {
+      "title": "Feed Milling Equipments",
+      "subtitle": "Feed milling equipment is specialized machinery used to grind, mix, and process raw ingredients into animal feed. These machines ensure the production of high-quality, uniform feed, vital for livestock nutrition in agriculture and farming industries.",
+      "button": "Click Here"
+    },
+    "slider2": {
+      "title": "Milling Equipments",
+      "subtitle": "Milling equipments refers to industrial machines used for grinding, cutting, and breaking down materials into finer particles. These machines are essential in industries such as food processing, mining, and construction for precise size reduction of various products.",
+      "button": "Click Here"
+    },
+    "slider3": {
+      "title": "Automation Systems",
+      "subtitle": "Automation systems use technology to perform tasks with minimal human input, improving efficiency and reducing errors in industries like manufacturing and logistics.",
+      "button": "Click Here"
+    },
+    "slider4": {
+      "title": "GLB SİLO",
+      "subtitle": "Grain storage and transportation systems are designed to safely store and move harvested grains. These systems ensure the protection and efficient handling of grain from farms to processing facilities.",
+      "button": "Click Here"
+    },
+    "slider5": {
+      "title": "Seed Cleaning Technologies",
+      "subtitle": "Seed cleaning technologies are specialized equipment used to remove impurities and unwanted materials from seeds. They ensure high-quality, pure seeds for planting or processing in agriculture.",
+      "button": "Click Here"
+    },
+    "slider6": {
+      "title": "Ektar Truck Scales",
+      "subtitle": "Truck scales are large weighing platforms designed to measure the weight of vehicles and their loads. They are essential for industries like transportation, agriculture, and construction to ensure accurate weight measurements and compliance with regulations.",
+      "button": "Click Here"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "EKMAR GROUP specializes in grain and oilseed storage systems with over 20 years of experience. The company provides consulting, design, and project management, offering turnkey solutions. EKMAR prioritizes quality and long-term customer partnerships.",
+    "expertManufacturer": {
+      "title": "Expert Manufacturer",
+      "subtitle": "EKMAR GROUP specializes in grain and oilseed storage and transportation systems manufacturing, also providing spare parts supply."
+    },
+    "twentyYearsExperience": {
+      "title": "20 Years of Experience",
+      "subtitle": "With over 20 years of experience, the company offers consulting, design, and project management services for both domestic and international projects."
+    },
+    "leadershipGoal": {
+      "title": "Leadership Goal",
+      "subtitle": "The company aims to be a leader in helping customers succeed by offering superior services compared to competitors."
+    },
+    "reliablePartner": {
+      "title": "Reliable Partner",
+      "subtitle": "EKMAR GROUP's mission is to be a reliable, long-term partner, focusing on continuous improvement and fostering a positive culture for partners and employees."
+    }
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "If you are interested in becoming a partner or sponsor, please feel free to contact us."
+  },
+  "offers": {
+    "title": "What We Offer",
+    "subtitle": "Our professional services include expert guidance and thorough control and supervision. We ensure high-quality standards throughout your project. After the warranty period, our post-warranty service provides continued support and maintenance.",
+    "determiningNeeds": {
+      "title": "Determining Needs",
+      "subtitle": "As a result of constant contact with our customers, carried out by our experienced staff, the needs of the Customer are determined and offered by informing and presenting the choice of product, block diagram and layouts for the relevant purposes."
+    },
+    "design": {
+      "title": "Design",
+      "subtitle": "Technological schemes and rough drawings of projects are prepared free of charge in accordance with the identified and agreed needs for our clients. As a result, if the projects are agreed, the pricing phase begins."
+    },
+    "createInfrastructure": {
+      "title": "We Create Infrastructure",
+      "subtitle": "At the request of our customers, we can provide professional services for the construction of foundations and installation of equipment."
+    },
+    "controlAndSupervision": {
+      "title": "Control and Supervision",
+      "subtitle": "Our control and supervision mechanism is fully implemented in every step from design stage, shipment, delivery, assembly, commissioning to production stages, which minimizes errors."
+    },
+    "maintenance": {
+      "title": "Maintenance",
+      "subtitle": "With quality, continuity, reliability, professional service support, qualified service technicians and spare parts guarantees, customer satisfaction is maintained at the highest level."
+    },
+    "postWarrantyService": {
+      "title": "Post-Warranty Service",
+      "subtitle": "Post-warranty service is a great option for equipment owners who want to get the most out of their investment. With us, you can be sure that your equipment will operate efficiently and reliably throughout its entire service life."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Feel free to contact us if you have any questions or concerns. Our customer support team is available 24/7 to assist you, and you can reach us via phone, email, or our online form.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "phone": "Phone",
+    "message": "Message",
+    "placeholder_name": "Enter Your Name",
+    "placeholder_email": "Enter Your Email",
+    "placeholder_subject": "Enter The Subject",
+    "placeholder_phone": "Enter Your Phone Number",
+    "placeholder_message": "Enter Your Message",
+    "sentTitle": "Thank You for Reaching Out!",
+    "sentSubtitle": "Our team will review your message and get back to you shortly with a response to address your inquiry or concern.",
+    "sentText": "Send Now",
+    "errorMessage": "Please fill in the required fields or check the information."
+  },
+  "footer": {
+    "copyright": {
+      "copy1": "Copyright by Ekmar Group",
+      "copy2": "Designed by Berry Css"
+    },
+    "address": {
+      "turkey": {
+        "country": "Turkey",
+        "phone": "905416468799",
+        "phoneTitle": "(+90) 541 646 87 99",
+        "email": "info@glbsilo.com",
+        "address": "Mansuroğlu Mah. 288th Street No:31 Bayraklı/İzmir"
+      },
+      "kazakhstan": {
+        "country": "Kazakhstan",
+        "phone": "77017338500",
+        "phoneTitle": "(+7) 701 733 8500",
+        "email": "info@ekmargroup.com",
+        "address": "Akhmet Zhubanov Street 31 Astana/Kazakhstan"
+      },
+      "uzbekistan": {
+        "country": "Uzbekistan",
+        "phone": "998900962393",
+        "phoneTitle": "(+998) 90 096 23 93",
+        "email": "info@ekmargroup.com",
+        "address": "Labzak Street No: 97 Tashkent/Uzbekistan"
+      }
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Optimize your industrial operations with advanced milling equipment, intelligent automation systems, and precision-engineered truck scales. Enhance efficiency, accuracy, and productivity with cutting-edge solutions tailored for seamless integration",
+    "mill": {
+      "title": "Milling Equipments",
+      "url": "/products/mill/",
+      "image": "/image/products/mill.webp"
+    },
+    "feed": {
+      "title": "Feed Milling Equipments",
+      "url": "/products/feed/",
+      "image": "/image/products/feed.webp"
+    },
+    "auto": {
+      "title": "Automation Systems",
+      "url": "/products/auto/",
+      "image": "/image/products/auto.webp"
+    },
+    "glb": {
+      "title": "GLB Silo",
+      "url": "/products/glb/",
+      "image": "/image/products/glb.webp"
+    },
+    "seed": {
+      "title": "Seed Cleaning Tech.",
+      "url": "/products/seed/",
+      "image": "/image/products/seed.webp"
+    },
+    "ektar": {
+      "title": "Ektar Truck Scales",
+      "url": "/products/ektar/",
+      "image": "/image/products/ektar.webp"
+    }
+  },
+  "millPage": {
+    "topTitle": "Milling Equipments",
+    "topImage": "/image/products/mill/millTop.webp",
+    "millingSection": {
+      "title": "Milling Section",
+      "product1": {
+        "title": "Roller Mill Vals (EKA-4)",
+        "image": "/image/products/mill/milling-section/1.webp"
+      },
+      "product2": {
+        "title": "Roller Mill ODV 250X1000",
+        "image": "/image/products/mill/milling-section/2.webp"
+      },
+      "product3": {
+        "title": "Plansifter",
+        "image": "/image/products/mill/milling-section/3.webp"
+      },
+      "product4": {
+        "title": "Purifier",
+        "image": "/image/products/mill/milling-section/4.webp"
+      },
+      "product5": {
+        "title": "Control Sifter",
+        "image": "/image/products/mill/milling-section/5.webp"
+      },
+      "product6": {
+        "title": "Supersonic Filter",
+        "image": "/image/products/mill/milling-section/6.webp"
+      },
+      "product7": {
+        "title": "Bran Finisher",
+        "image": "/image/products/mill/milling-section/7.webp"
+      },
+      "product8": {
+        "title": "Vibro Sifter",
+        "image": "/image/products/mill/milling-section/8.webp"
+      },
+      "product9": {
+        "title": "Entoleter",
+        "image": "/image/products/mill/milling-section/9.webp"
+      },
+      "product10": {
+        "title": "Distributor",
+        "image": "/image/products/mill/milling-section/10.webp"
+      },
+      "product11": {
+        "title": "Crusher",
+        "image": "/image/products/mill/milling-section/11.webp"
+      },
+      "product12": {
+        "title": "High Pressure Fan",
+        "image": "/image/products/mill/milling-section/12.webp"
+      }
+    },
+    "cleaningSection": {
+      "title": "Cleaning Section",
+      "product1": {
+        "title": "Grain Seperator",
+        "image": "/image/products/mill/cleaning-section/1.webp"
+      },
+      "product2": {
+        "title": "Vidro Grain Seperator",
+        "image": "/image/products/mill/cleaning-section/2.webp"
+      },
+      "product3": {
+        "title": "Radial Aspirator",
+        "image": "/image/products/mill/cleaning-section/3.webp"
+      },
+      "product4": {
+        "title": "Air Channel",
+        "image": "/image/products/mill/cleaning-section/4.webp"
+      },
+      "product5": {
+        "title": "Trieur",
+        "image": "/image/products/mill/cleaning-section/5.webp"
+      },
+      "product6": {
+        "title": "Stone Seperator",
+        "image": "/image/products/mill/cleaning-section/6.webp"
+      },
+      "product7": {
+        "title": "Scourer",
+        "image": "/image/products/mill/cleaning-section/7.webp"
+      },
+      "product8": {
+        "title": "Tubular Magnet",
+        "image": "/image/products/mill/cleaning-section/8.webp"
+      },
+      "product9": {
+        "title": "Magnet",
+        "image": "/image/products/mill/cleaning-section/9.webp"
+      },
+      "product10": {
+        "title": "Dampening",
+        "image": "/image/products/mill/cleaning-section/10.webp"
+      },
+      "product11": {
+        "title": "Inclined Dampening",
+        "image": "/image/products/mill/cleaning-section/11.webp"
+      },
+      "product12": {
+        "title": "Vertical Washing",
+        "image": "/image/products/mill/cleaning-section/12.webp"
+      }
+    },
+    "TransportationEquipment": {
+      "title": "Transportation Equipment",
+      "product1": {
+        "title": "Bucket Elevator",
+        "image": "/image/products/mill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Screw Conveyor",
+        "image": "/image/products/mill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Chain Conveyor",
+        "image": "/image/products/mill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Blower",
+        "image": "/image/products/mill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Air Lock",
+        "image": "/image/products/mill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "Blending Machine",
+        "image": "/image/products/mill/transportation-equipment/6.webp"
+      }
+    },
+    "packingSection": {
+      "title": "Packing Section",
+      "product1": {
+        "title": "Packing Machine",
+        "image": "/image/products/mill/packing-section/1.webp"
+      },
+      "product2": {
+        "title": "Carrousel Packing",
+        "image": "/image/products/mill/packing-section/2.webp"
+      },
+      "product3": {
+        "title": "Tubular Screw",
+        "image": "/image/products/mill/packing-section/3.webp"
+      },
+      "product4": {
+        "title": "Rotoflow",
+        "image": "/image/products/mill/packing-section/4.webp"
+      }
+    }
+  },
+  "feedMillPage": {
+    "topTitle": "Feed Milling Equipments",
+    "topImage": "/image/products/feedMill/feedMillTop.webp",
+    "palletizingGroup": {
+      "title": "Palletizing Group",
+      "product1": {
+        "title": "EK-PP Pellet Press",
+        "image": "/image/products/feedmill/palletizing-group/1.webp"
+      },
+      "product2": {
+        "title": "EK-PP Pellet Press",
+        "image": "/image/products/feedmill/palletizing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-PP Pellet Cooler",
+        "image": "/image/products/feedmill/palletizing-group/3.webp"
+      },
+      "product4": {
+        "title": "Coating System",
+        "image": "/image/products/feedmill/palletizing-group/4.webp"
+      },
+      "product5": {
+        "title": "Conditioner",
+        "image": "/image/products/feedmill/palletizing-group/5.webp"
+      },
+      "product6": {
+        "title": "Double Conditioner",
+        "image": "/image/products/feedmill/palletizing-group/6.webp"
+      },
+      "product7": {
+        "title": "Crumbler",
+        "image": "/image/products/feedmill/palletizing-group/7.webp"
+      },
+      "product8": {
+        "title": "Roller Mill",
+        "image": "/image/products/feedmill/palletizing-group/8.webp"
+      },
+      "product9": {
+        "title": "Air Lock",
+        "image": "/image/products/feedmill/palletizing-group/9.webp"
+      },
+      "product10": {
+        "title": "EK_VK Pneumatic Diverter",
+        "image": "/image/products/feedmill/palletizing-group/10.webp"
+      }
+    },
+    "millingAndMixingGroup": {
+      "title": "Milling And Mixing Group",
+      "product1": {
+        "title": "EK-CD Hammer Mill",
+        "image": "/image/products/feedmill/milling-and-mixing-group/1.webp"
+      },
+      "product2": {
+        "title": "Feeder For Hammer Mill",
+        "image": "/image/products/feedmill/milling-and-mixing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-ML Double Shaft Melasier",
+        "image": "/image/products/feedmill/milling-and-mixing-group/3.webp"
+      },
+      "product4": {
+        "title": "Single Shaft Mixer",
+        "image": "/image/products/feedmill/milling-and-mixing-group/4.webp"
+      },
+      "product5": {
+        "title": "Micro Dosing Unit",
+        "image": "/image/products/feedmill/milling-and-mixing-group/5.webp"
+      }
+    },
+    "screeningGroup": {
+      "title": "Screening Group",
+      "product1": {
+        "title": "Rotary Sieve",
+        "image": "/image/products/feedmill/screening-group/1.webp"
+      },
+      "product2": {
+        "title": "ECS Seperator",
+        "image": "/image/products/feedmill/screening-group/2.webp"
+      },
+      "product3": {
+        "title": "Drum Sifter",
+        "image": "/image/products/feedmill/screening-group/3.webp"
+      },
+      "product4": {
+        "title": "Rotary Sifter",
+        "image": "/image/products/feedmill/screening-group/4.webp"
+      },
+      "product5": {
+        "title": "Fan",
+        "image": "/image/products/feedmill/screening-group/5.webp"
+      },
+      "product6": {
+        "title": "Supersonic Filter",
+        "image": "/image/products/feedmill/screening-group/6.webp"
+      },
+      "product7": {
+        "title": "Air Lock",
+        "image": "/image/products/feedmill/screening-group/7.webp"
+      },
+      "product8": {
+        "title": "Stone Seperator",
+        "image": "/image/products/feedmill/screening-group/8.webp"
+      },
+      "product9": {
+        "title": "Aspiration Cyclone",
+        "image": "/image/products/feedmill/screening-group/9.webp"
+      }
+    },
+    "transportationEquipment": {
+      "title": "Transportation Equipment",
+      "product1": {
+        "title": "Bucket Elevator",
+        "image": "/image/products/feedmill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Screw Conveyor",
+        "image": "/image/products/feedmill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Chain Conveyor",
+        "image": "/image/products/feedmill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Transportation Belt",
+        "image": "/image/products/feedmill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Z Type Automatic Magnet",
+        "image": "/image/products/feedmill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "BHK Air Lock",
+        "image": "/image/products/feedmill/transportation-equipment/6.webp"
+      },
+      "product7": {
+        "title": "Blower",
+        "image": "/image/products/feedmill/transportation-equipment/7.webp"
+      },
+      "product8": {
+        "title": "Rotoflow",
+        "image": "/image/products/feedmill/transportation-equipment/8.webp"
+      },
+      "product9": {
+        "title": "Distributor",
+        "image": "/image/products/feedmill/transportation-equipment/9.webp"
+      }
+    },
+    "packingAndLoadingGroup": {
+      "title": "Packing And Loading Group",
+      "product1": {
+        "title": "Double Weighing Packaging Machine 15/40",
+        "image": "/image/products/feedmill/packing-and-loading-group/1.webp"
+      },
+      "product2": {
+        "title": "Carousel Packing Machine",
+        "image": "/image/products/feedmill/packing-and-loading-group/2.webp"
+      }
+    }
+  },
+  "automationSystemsPage": {
+    "topTitle": "Automation Systems",
+    "topImage": "/image/products/automation/autoTop.webp",
+    "products": {
+      "title": "Automation Products",
+      "product1": {
+        "title": "In-line Scales",
+        "image": "/image/products/automation/1.webp"
+      },
+      "product2": {
+        "title": "Pedestal Scales",
+        "image": "/image/products/automation/2.webp"
+      },
+      "product3": {
+        "title": "Weighing Scales",
+        "image": "/image/products/automation/3.webp"
+      },
+      "product4": {
+        "title": "Flow Scales",
+        "image": "/image/products/automation/4.webp"
+      },
+      "product5": {
+        "title": "Capacity Scales",
+        "image": "/image/products/automation/5.webp"
+      },
+      "product6": {
+        "title": "Volumetric Screw Dispenser",
+        "image": "/image/products/automation/6.webp"
+      },
+      "product7": {
+        "title": "Automatic Dampening System",
+        "image": "/image/products/automation/7.webp"
+      }
+    }
+  },
+  "glbPage": {
+    "topTitle": "GLB Silo",
+    "topImage": "/image/products/glb/glbTop.webp",
+    "products": {
+      "title": "GLB Silo Products",
+      "product1": {
+        "title": "Support Towers",
+        "image": "/image/products/glb/1.webp"
+      },
+      "product2": {
+        "title": "Silo Support Legs",
+        "image": "/image/products/glb/2.webp"
+      },
+      "product3": {
+        "title": "Upper Catwalk",
+        "image": "/image/products/glb/3.webp"
+      },
+      "product4": {
+        "title": "Silo Platforms",
+        "image": "/image/products/glb/4.webp"
+      },
+      "product5": {
+        "title": "Elevator Towers",
+        "image": "/image/products/glb/5.webp"
+      },
+      "product6": {
+        "title": "Chain Conveyors",
+        "image": "/image/products/glb/6.webp"
+      },
+      "product7": {
+        "title": "Belt Bucket Elevators",
+        "image": "/image/products/glb/7.webp"
+      }
+    }
+  },
+  "seedPage": {
+    "topTitle": "Seed Cleaning Technologies",
+    "topImage": "/image/products/seed/seedTop.webp",
+    "products": {
+      "title": "Seed Cleaning Products",
+      "product1": {
+        "title": "Seed Cleaning Line",
+        "image": "/image/products/seed/1.webp"
+      },
+      "product2": {
+        "title": "Grain Cleaning Equipment",
+        "image": "/image/products/seed/2.webp"
+      },
+      "product3": {
+        "title": "Drum Seperator With Aspiration Block",
+        "image": "/image/products/seed/3.webp"
+      },
+      "product4": {
+        "title": "Trier Unit",
+        "image": "/image/products/seed/4.webp"
+      },
+      "product5": {
+        "title": "Sorting Pneumatic",
+        "image": "/image/products/seed/5.webp"
+      },
+      "product6": {
+        "title": "Fine Cleaner",
+        "image": "/image/products/seed/6.webp"
+      },
+      "product7": {
+        "title": "Radial Tarar",
+        "image": "/image/products/seed/7.webp"
+      },
+      "product8": {
+        "title": "Elevator",
+        "image": "/image/products/seed/8.webp"
+      },
+      "product9": {
+        "title": "Waste Auger",
+        "image": "/image/products/seed/9.webp"
+      },
+      "product10": {
+        "title": "Cyclone",
+        "image": "/image/products/seed/10.webp"
+      },
+      "product11": {
+        "title": "Continuous Weeder Machine",
+        "image": "/image/products/seed/11.webp"
+      },
+      "product12": {
+        "title": "Seperator Aspiration Hood",
+        "image": "/image/products/seed/12.webp"
+      },
+      "product13": {
+        "title": "Packing Line",
+        "image": "/image/products/seed/13.webp"
+      }
+    }
+  },
+  "ektarPage": {
+    "topTitle": "Ektar Truck & Railway Scales",
+    "topImage": "/image/products/ektar/ektarTop.webp",
+    "products": {
+      "title": "Truck & Railway Scales",
+      "product1": {
+        "title": "Ektar 2x8",
+        "image": "/image/products/ektar/1.webp"
+      },
+      "product2": {
+        "title": "Static Railway Scales",
+        "image": "/image/products/ektar/2.webp"
+      },
+      "product3": {
+        "title": "Two-Platform Railway Scales",
+        "image": "/image/products/ektar/3.webp"
+      },
+      "product4": {
+        "title": "Livestock Scales",
+        "image": "/image/products/ektar/4.webp"
+      },
+      "product5": {
+        "title": "Industrial Platform Scales",
+        "image": "/image/products/ektar/5.webp"
+      }
+    }
+  }
+}

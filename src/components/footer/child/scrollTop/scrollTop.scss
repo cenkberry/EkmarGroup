@@ -1,0 +1,33 @@
+.fixed-scroll {
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 4px;
+  @media screen and (min-width: $desk) {
+    gap: 6px;
+    bottom: 24px;
+    right: 24px;
+    svg {
+      cursor: pointer;
+    }
+  }
+  @media screen and (max-width: $lap) {
+    svg {
+      cursor: pointer;
+    }
+  }
+  .scroll-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background-color: var(--col-three);
+  }
+}

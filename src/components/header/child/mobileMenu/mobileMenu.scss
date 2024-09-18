@@ -1,0 +1,26 @@
+.mobileMenu {
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 10;
+  padding: 24px 12px;
+  overflow: hidden;
+  width: 87%;
+  height: 100dvh;
+  max-height: 100dvh;
+  transition: all 0.3s linear;
+  background-color: var(--col-black);
+  display: flex;
+  flex-direction: column;
+  > ul {
+    flex: 1 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: var(--col-white);
+    gap: 20px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+}
