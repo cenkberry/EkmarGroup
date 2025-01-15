@@ -1,0 +1,107 @@
+.sliders {
+  position: relative;
+  overflow: hidden;
+  .bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    @media screen and (max-width: $lap) {
+      height: 60vh;
+    }
+  }
+  .slider-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    height: 60vh;
+    @media screen and (min-width: $lap) {
+      text-align: left;
+      align-items: flex-start;
+      padding: 0;
+      height: 600px;
+    }
+    &-title {
+      color: var(--col-white);
+      font-size: var(--size-28);
+      font-weight: 700;
+      margin-bottom: var(--size-32);
+      @media screen and (min-width: $lap) {
+        font-size: var(--size-32);
+        margin-bottom: var(--size-24);
+      }
+      @media screen and (min-width: $desk) {
+        font-size: var(--size-44);
+      }
+    }
+    &-subtitle {
+      color: #f3f3f3;
+      font-size: var(--size-20);
+      margin-bottom: var(--size-60);
+      @media screen and (min-width: $lap) {
+        font-weight: 500;
+        margin-bottom: var(--size-40);
+        padding-right: 55%;
+      }
+      @media screen and (min-width: $desk) {
+        font-size: var(--size-20);
+        margin-bottom: var(--size-60);
+      }
+    }
+    &-button {
+      height: 40px;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #d71633;
+      color: var(--col-white);
+      border-radius: 6px;
+      padding: 8px 12px;
+      min-width: 120px;
+      transition: all 0.5s linear;
+      @media screen and (min-width: $lap) {
+        &:hover {
+          background-color: #e43952;
+        }
+      }
+    }
+  }
+}
+
+.slick-dots {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent !important;
+  @media screen and (min-width: $lap) {
+    bottom: 20px;
+  }
+  li {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    button {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--col-white);
+      &::before {
+        font-size: 12px;
+        color: #e43952;
+        opacity: 1;
+      }
+    }
+  }
+  li.slick-active {
+    button {
+      &::before {
+        color: var(--col-white);
+      }
+    }
+  }
+}

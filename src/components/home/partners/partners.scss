@@ -1,0 +1,31 @@
+.partners {
+  padding: var(--size-48) 0;
+  background-color: var(--col-black);
+  &-title {
+    font-size: var(--size-28);
+    line-height: 1.2;
+    color: var(--col-title);
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: var(--size-12);
+  }
+  &-subtitle {
+    color: var(--col-four);
+    font-size: var(--size-16);
+    line-height: 1.6;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: var(--size-32);
+    @media screen and (min-width: $desk) {
+      padding: 0 25%;
+      margin-bottom: var(--size-48);
+    }
+  }
+  &-slider-item {
+    .image-center {
+      @media screen and (max-width: $sm) {
+        padding: 0 8px;
+      }
+    }
+  }
+}

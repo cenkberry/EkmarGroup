@@ -1,0 +1,22 @@
+.catalog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  background-color: #333333;
+  color: var(--col-white);
+  padding: var(--size-8) var(--size-12);
+  border-radius: 4px;
+  transition: all 0.3s linear;
+  letter-spacing: 0;
+  white-space: nowrap;
+  font-size: var(--size-14);
+  &:visited {
+    color: var(--col-white);
+  }
+  @media screen and (min-width: 1023px) {
+    &:hover {
+      background-color: #414141;
+    }
+  }
+}

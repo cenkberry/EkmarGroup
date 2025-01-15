@@ -1,0 +1,80 @@
+.home-products {
+  padding: var(--size-48) 0;
+  background-color: var(--col-black);
+  @media screen and (min-width: $lap) {
+    padding: var(--size-60) 0;
+  }
+  &-title {
+    font-size: var(--size-32);
+    line-height: 1.2;
+    color: var(--col-title);
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: var(--size-12);
+  }
+  &-subtitle {
+    color: var(--col-four);
+    font-size: var(--size-16);
+    line-height: 1.6;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: var(--size-32);
+    @media screen and (min-width: $desk) {
+      padding: 0 20%;
+      margin-bottom: var(--size-48);
+    }
+  }
+  &-card {
+    position: relative;
+    border-radius: var(--size-12);
+    margin-bottom: 12px;
+    &-image {
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      overflow: hidden;
+      @media screen and (min-width: $lap) {
+        border-radius: var(--size-12);
+      }
+    }
+  }
+  &-card-title {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--col-white);
+    background-color: #181818;
+    @media screen and (min-width: $lap) {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: 100%;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 0;
+      opacity: 1;
+      background-color: #12132aad;
+      border-radius: var(--size-12);
+      transition: all 0.5s linear;
+      p {
+        transition: background-color 0s linear, padding 0.5s linear, border-top-left-radius 0.5s linear;
+        background-color: transparent;
+      }
+      &:hover {
+        background-color: #12132a00;
+        p {
+          position: absolute;
+          right: 0;
+          bottom: 0;
+          background-color: #b30000cb;
+          padding: var(--size-12) var(--size-24);
+          border-top-left-radius: var(--size-8);
+        }
+      }
+    }
+  }
+}
