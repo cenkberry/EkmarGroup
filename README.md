@@ -1,8 +1,8 @@
 # EkmarGroup
 I created a website for an international firm named Ekmar Group.
 
-# Explore the page by clicking on this link.
+## Explore the demo project by clicking on this link.
+https://www.ekmargroup.com
 
-
-# You can visit the original website through this link
+## You can visit the original website through this link
 https://www.ekmargroup.com
