@@ -127,21 +127,21 @@
         "phone": "905123456789",
         "phoneTitle": "(+90) 123 456 789",
         "email": "info@xxx.com",
-        "address": "Mansuroğlu Mah. 288. Sokak No:31 Bayraklı/İzmir"
+        "address": "Lorem ipsum Lorem ipsum Lorem ipsum"
       },
       "kazakhstan": {
         "country": "Kazakistan",
         "phone": "123456789",
         "phoneTitle": "(+7) 123 456 7890",
         "email": "info@xxx.com",
-        "address": "Akhmet Zhubanov Caddesi 31 Astana/Kazakhstan"
+        "address": "Lorem ipsum Lorem ipsum Lorem ipsum"
       },
       "uzbekistan": {
         "country": "Özbekistan",
         "phone": "123456789",
         "phoneTitle": "(+998) 123 456 789",
         "email": "info@xxx.com",
-        "address": "Labzak Caddesi No: 97 Taşkent/Özbekistan"
+        "address": "Lorem ipsum Lorem ipsum Lorem ipsum"
       }
     }
   },

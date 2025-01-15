@@ -126,22 +126,22 @@
         "country": "Турция",
         "phone": "905123456789",
         "phoneTitle": "(+90) 123 456 789",
-        "email": "info@xxx.com",
-        "address": "Мансуроглу Мах. 288-я улица №31 Байраклы/Измир"
+        "email": "info@mail.ru",
+        "address": "Лорем ипсум долор сит амет, но семпер"
       },
       "kazakhstan": {
         "country": "Казахстан",
         "phone": "123456789",
         "phoneTitle": "(+7) 123 456 7890",
-        "email": "info@xxx.com",
-        "address": "Улица Ахмета Жубанова 31 Астана/Казахстан"
+        "email": "info@mail.ru",
+        "address": "Лорем ипсум долор сит амет, но семпер"
       },
       "uzbekistan": {
         "country": "Узбекистан",
         "phone": "123456789",
         "phoneTitle": "(+998) 123 456 789",
-        "email": "info@xxx.com",
-        "address": "Улица Лабзак №97 Ташкент/Узбекистан"
+        "email": "info@mail.ru",
+        "address": "Лорем ипсум долор сит амет, но семпер"
       }
     }
   },
