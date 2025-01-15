@@ -31,7 +31,7 @@
       "button": "Buraya Tıklayın"
     },
     "slider4": {
-      "title": "GLB SİLO",
+      "title": "XXX SİLO",
       "subtitle": "Tahıl depolama ve taşıma sistemleri, tahılları güvenli bir şekilde depolamak ve taşımak için tasarlanmıştır. Bu sistemler, tahılların etkin bir şekilde işleme tesislerine taşınmasını sağlar.",
       "button": "Buraya Tıklayın"
     },
@@ -41,17 +41,17 @@
       "button": "Buraya Tıklayın"
     },
     "slider6": {
-      "title": "Ektar Kamyon Terazileri",
+      "title": "XXX Kamyon Terazileri",
       "subtitle": "Kamyon terazileri, araçların ve yüklerinin ağırlığını ölçmek için kullanılan büyük tartım platformlarıdır. Bu teraziler, taşımacılık, tarım ve inşaat sektörlerinde doğru ağırlık ölçümleri ve düzenlemelere uyum sağlar.",
       "button": "Buraya Tıklayın"
     }
   },
   "about": {
     "title": "Hakkımızda",
-    "subtitle": "EKMAR GROUP, 20 yılı aşkın deneyimiyle tahıl ve yağlı tohum depolama sistemlerinde uzmanlaşmıştır. Şirket, danışmanlık, tasarım ve proje yönetimi hizmetleri sunarak anahtar teslim çözümler sağlar. EKMAR, kaliteyi ve uzun vadeli müşteri ilişkilerini ön planda tutar.",
+    "subtitle": "Private Firm, 20 yılı aşkın deneyimiyle tahıl ve yağlı tohum depolama sistemlerinde uzmanlaşmıştır. Şirket, danışmanlık, tasarım ve proje yönetimi hizmetleri sunarak anahtar teslim çözümler sağlar. XXXX, kaliteyi ve uzun vadeli müşteri ilişkilerini ön planda tutar.",
     "expertManufacturer": {
       "title": "Uzman Üretici",
-      "subtitle": "EKMAR GROUP, tahıl ve yağlı tohum depolama ve taşıma sistemleri üretimi konusunda uzmanlaşmış, aynı zamanda yedek parça tedariki sağlamaktadır."
+      "subtitle": "Private Firm, tahıl ve yağlı tohum depolama ve taşıma sistemleri üretimi konusunda uzmanlaşmış, aynı zamanda yedek parça tedariki sağlamaktadır."
     },
     "twentyYearsExperience": {
       "title": "20 Yıllık Deneyim",
@@ -63,7 +63,7 @@
     },
     "reliablePartner": {
       "title": "Güvenilir Ortak",
-      "subtitle": "EKMAR GROUP'un misyonu, sürekli iyileştirme ve olumlu bir kültür yaratma odaklı güvenilir ve uzun vadeli bir iş ortağı olmaktır."
+      "subtitle": "Private Firm'un misyonu, sürekli iyileştirme ve olumlu bir kültür yaratma odaklı güvenilir ve uzun vadeli bir iş ortağı olmaktır."
     }
   },
   "partners": {
@@ -118,29 +118,29 @@
   },
   "footer": {
     "copyright": {
-      "copy1": "Telif Hakkı Ekmar Group'a Aittir.",
+      "copy1": "Telif Hakkı Private Firm'a Aittir.",
       "copy2": "Berry Css tarafından tasarlanmıştır."
     },
     "address": {
       "turkey": {
         "country": "Türkiye",
-        "phone": "905416468799",
-        "phoneTitle": "(+90) 541 646 87 99",
-        "email": "info@glbsilo.com",
+        "phone": "905123456789",
+        "phoneTitle": "(+90) 123 456 789",
+        "email": "info@xxx.com",
         "address": "Mansuroğlu Mah. 288. Sokak No:31 Bayraklı/İzmir"
       },
       "kazakhstan": {
         "country": "Kazakistan",
-        "phone": "77017338500",
-        "phoneTitle": "(+7) 701 733 8500",
-        "email": "info@ekmargroup.com",
+        "phone": "123456789",
+        "phoneTitle": "(+7) 123 456 7890",
+        "email": "info@xxx.com",
         "address": "Akhmet Zhubanov Caddesi 31 Astana/Kazakhstan"
       },
       "uzbekistan": {
         "country": "Özbekistan",
-        "phone": "998900962393",
-        "phoneTitle": "(+998) 90 096 23 93",
-        "email": "info@ekmargroup.com",
+        "phone": "123456789",
+        "phoneTitle": "(+998) 123 456 789",
+        "email": "info@xxx.com",
         "address": "Labzak Caddesi No: 97 Taşkent/Özbekistan"
       }
     }
@@ -164,7 +164,7 @@
       "image": "/image/products/auto.webp"
     },
     "glb": {
-      "title": "GLB Silo",
+      "title": "XXX Silo",
       "url": "/products/glb/",
       "image": "/image/products/glb.webp"
     },
@@ -174,7 +174,7 @@
       "image": "/image/products/seed.webp"
     },
     "ektar": {
-      "title": "Ektar Kamyon Kantarı",
+      "title": "XXX Kamyon Kantarı",
       "url": "/products/ektar/",
       "image": "/image/products/ektar.webp"
     }
@@ -526,10 +526,10 @@
     }
   },
   "glbPage": {
-    "topTitle": "GLB Silo",
+    "topTitle": "XXX Silo",
     "topImage": "/image/products/glb/glbTop.webp",
     "products": {
-      "title": "GLB Silo Ürünleri",
+      "title": "XXX Silo Ürünleri",
       "product1": {
         "title": "Destek Kuleleri",
         "image": "/image/dummy.jpg"
@@ -620,12 +620,12 @@
     }
   },
   "ektarPage": {
-    "topTitle": "Ektar Kamyon & Demiryolu Tartım Terazileri",
+    "topTitle": "XXX Kamyon & Demiryolu Tartım Terazileri",
     "topImage": "/image/products/ektar/ektarTop.webp",
     "products": {
       "title": "Kamyon & Demiryolu Tartım Terazileri",
       "product1": {
-        "title": "Ektar 2x8",
+        "title": "XXX 2x8",
         "image": "/image/dummy.jpg"
       },
       "product2": {

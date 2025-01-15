@@ -31,7 +31,7 @@
       "button": "Click Here"
     },
     "slider4": {
-      "title": "GLB SİLO",
+      "title": "XXX SİLO",
       "subtitle": "Grain storage and transportation systems are designed to safely store and move harvested grains. These systems ensure the protection and efficient handling of grain from farms to processing facilities.",
       "button": "Click Here"
     },
@@ -41,17 +41,17 @@
       "button": "Click Here"
     },
     "slider6": {
-      "title": "Ektar Truck Scales",
+      "title": "XXX Truck Scales",
       "subtitle": "Truck scales are large weighing platforms designed to measure the weight of vehicles and their loads. They are essential for industries like transportation, agriculture, and construction to ensure accurate weight measurements and compliance with regulations.",
       "button": "Click Here"
     }
   },
   "about": {
     "title": "About Us",
-    "subtitle": "EKMAR GROUP specializes in grain and oilseed storage systems with over 20 years of experience. The company provides consulting, design, and project management, offering turnkey solutions. EKMAR prioritizes quality and long-term customer partnerships.",
+    "subtitle": "Private Firm specializes in grain and oilseed storage systems with over 20 years of experience. The company provides consulting, design, and project management, offering turnkey solutions. XXXX prioritizes quality and long-term customer partnerships.",
     "expertManufacturer": {
       "title": "Expert Manufacturer",
-      "subtitle": "EKMAR GROUP specializes in grain and oilseed storage and transportation systems manufacturing, also providing spare parts supply."
+      "subtitle": "Private Firm specializes in grain and oilseed storage and transportation systems manufacturing, also providing spare parts supply."
     },
     "twentyYearsExperience": {
       "title": "20 Years of Experience",
@@ -63,7 +63,7 @@
     },
     "reliablePartner": {
       "title": "Reliable Partner",
-      "subtitle": "EKMAR GROUP's mission is to be a reliable, long-term partner, focusing on continuous improvement and fostering a positive culture for partners and employees."
+      "subtitle": "Private Firm's mission is to be a reliable, long-term partner, focusing on continuous improvement and fostering a positive culture for partners and employees."
     }
   },
   "partners": {
@@ -118,30 +118,30 @@
   },
   "footer": {
     "copyright": {
-      "copy1": "Copyright by Ekmar Group",
+      "copy1": "Copyright by Private Firm",
       "copy2": "Designed by Berry Css"
     },
     "address": {
       "turkey": {
         "country": "Turkey",
-        "phone": "905416468799",
-        "phoneTitle": "(+90) 541 646 87 99",
-        "email": "info@glbsilo.com",
-        "address": "Mansuroğlu Mah. 288th Street No:31 Bayraklı/İzmir"
+        "phone": "905123456789",
+        "phoneTitle": "(+90) 123 456 789",
+        "email": "info@xxx.com",
+        "address": "Lorem ipsum lorem ipsum lorem ipsum"
       },
       "kazakhstan": {
         "country": "Kazakhstan",
-        "phone": "77017338500",
-        "phoneTitle": "(+7) 701 733 8500",
-        "email": "info@ekmargroup.com",
-        "address": "Akhmet Zhubanov Street 31 Astana/Kazakhstan"
+        "phone": "123456789",
+        "phoneTitle": "(+7) 123 456 7890",
+        "email": "info@xxx.com",
+        "address": "Lorem ipsum lorem ipsum lorem ipsum"
       },
       "uzbekistan": {
         "country": "Uzbekistan",
-        "phone": "998900962393",
-        "phoneTitle": "(+998) 90 096 23 93",
-        "email": "info@ekmargroup.com",
-        "address": "Labzak Street No: 97 Tashkent/Uzbekistan"
+        "phone": "123456789",
+        "phoneTitle": "(+998) 123 456 789",
+        "email": "info@xxx.com",
+        "address": "Lorem ipsum lorem ipsum lorem ipsum"
       }
     }
   },
@@ -164,7 +164,7 @@
       "image": "/image/products/auto.webp"
     },
     "glb": {
-      "title": "GLB Silo",
+      "title": "XXX Silo",
       "url": "/products/glb/",
       "image": "/image/products/glb.webp"
     },
@@ -174,7 +174,7 @@
       "image": "/image/products/seed.webp"
     },
     "ektar": {
-      "title": "Ektar Truck Scales",
+      "title": "XXX Truck Scales",
       "url": "/products/ektar/",
       "image": "/image/products/ektar.webp"
     }
@@ -526,10 +526,10 @@
     }
   },
   "glbPage": {
-    "topTitle": "GLB Silo",
+    "topTitle": "XXX Silo",
     "topImage": "/image/products/glb/glbTop.webp",
     "products": {
-      "title": "GLB Silo Products",
+      "title": "XXX Silo Products",
       "product1": {
         "title": "Support Towers",
         "image": "/image/dummy.jpg"
@@ -620,12 +620,12 @@
     }
   },
   "ektarPage": {
-    "topTitle": "Ektar Truck & Railway Scales",
+    "topTitle": "XXX Truck & Railway Scales",
     "topImage": "/image/products/ektar/ektarTop.webp",
     "products": {
       "title": "Truck & Railway Scales",
       "product1": {
-        "title": "Ektar 2x8",
+        "title": "XXX 2x8",
         "image": "/image/dummy.jpg"
       },
       "product2": {

@@ -32,7 +32,7 @@ export default function ScrollTop() {
   return (
     isVisible && (
       <div className="fixed-scroll">
-        <a className="fixed-whatsapp" href="https://wa.me/77017338500">
+        <a className="fixed-whatsapp" href="https://wa.me/123456789">
           <Whatsapplcon />
         </a>
         <div onClick={scrollToTop} className="scroll-icon">
