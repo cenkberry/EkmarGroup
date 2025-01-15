@@ -8,18 +8,18 @@ export default function Social() {
     <div className="dn lap-db box">
       <div className="df aic gap-12">
         <Link
-          href="https://www.facebook.com/ekmargroup"
+          href="https://www.facebook.com/xxxgroup"
           aria-label="facebook link"
         >
           <Facebook />
         </Link>
         <Link
-          href="https://www.instagram.com/ekmar.group/"
+          href="https://www.instagram.com/xxxgroup/"
           aria-label="instagram link"
         >
           <Instagram />
         </Link>
-        <Link href="https://x.com/ekmargroup" aria-label="twitter link">
+        <Link href="https://x.com/xxxgroup" aria-label="twitter link">
           <Twitter />
         </Link>
       </div>
