@@ -1,4 +1,4 @@
-# EkmarGroup
+## Ekmar Group Project
 I created a website for an international firm named Ekmar Group.
 
 ## Explore the demo project by clicking on this link.
